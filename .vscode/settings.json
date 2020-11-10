@@ -1,0 +1,11 @@
+{
+	"files.exclude": {
+		"C:/Users/sower/Documents/Work/Programming/C++/Unreal Learning/BullCowGame/.git": true,
+		"C:/Users/sower/Documents/Work/Programming/C++/Unreal Learning/BullCowGame/.vs": true,
+		"C:/Users/sower/Documents/Work/Programming/C++/Unreal Learning/BullCowGame/.vscode": true,
+		"C:/Users/sower/Documents/Work/Programming/C++/Unreal Learning/BullCowGame/Content": true,
+		"C:/Users/sower/Documents/Work/Programming/C++/Unreal Learning/BullCowGame/DerivedDataCache": true,
+		"C:/Users/sower/Documents/Work/Programming/C++/Unreal Learning/BullCowGame/Intermediate": true,
+		"C:/Users/sower/Documents/Work/Programming/C++/Unreal Learning/BullCowGame/Saved": true
+	}
+}

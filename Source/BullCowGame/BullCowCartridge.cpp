@@ -17,31 +17,7 @@ void UBullCowCartridge::OnInput(const FString &Input) // When the player hits en
     }
     else
     {
-        if (Input == HiddenWord)
-        {
-            PrintLine(TEXT("WINNER WINNER CHICKEN DINNER!"));
-            EndGame();
-        }
-        else
-        {
-            if (Lives > 0)
-            {
-                --Lives;
-                PrintLine(TEXT("WRONG IDIOT!"));
-                if (HiddenWord.Len() != Input.Len())
-                {
-                    PrintLine(TEXT("The word is %i letters long asshole\nI FUCKEN TOLD YOU THAT"), HiddenWord.Len());
-                }
-                PrintLine(TEXT("You have %i lives remaining"), Lives + 1);
-                PrintLine(TEXT("Try again"));
-            }
-
-            else
-            {
-                PrintLine(TEXT("OUT OF LIVES MORON"));
-                EndGame();
-            }
-        }
+        ProcessGuess(Input);
     }
 }
 
@@ -54,7 +30,6 @@ void UBullCowCartridge::SetupGame()
     PrintLine(TEXT("Hello Player 1"));
     PrintLine(TEXT("Guess the %i letter word"), HiddenWord.Len());
     PrintLine(TEXT("You have %i lives"), Lives + 1);
-    PrintLine(TEXT("GOOOOOO"))
 }
 
 void UBullCowCartridge::EndGame()
@@ -62,4 +37,34 @@ void UBullCowCartridge::EndGame()
 
     bGameOver = true;
     PrintLine(TEXT("Press enter to suck at this again..."));
+}
+
+void UBullCowCartridge::ProcessGuess(FString Guess)
+{
+    if (Guess == HiddenWord)
+    {
+        PrintLine(TEXT("WINNER WINNER CHICKEN DINNER!"));
+        EndGame();
+        return;
+    }
+    else
+    {
+        if (Lives > 0)
+        {
+            --Lives;
+            PrintLine(TEXT("WRONG IDIOT!"));
+            if (HiddenWord.Len() != Guess.Len())
+            {
+                PrintLine(TEXT("The word is %i letters long asshole\nI FUCKEN TOLD YOU THAT"), HiddenWord.Len());
+            }
+            PrintLine(TEXT("You have %i lives remaining"), Lives + 1);
+            PrintLine(TEXT("Try again"));
+        }
+
+        else
+        {
+            PrintLine(TEXT("OUT OF LIVES MORON"));
+            EndGame();
+        }
+    }
 }

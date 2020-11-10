@@ -790,3 +790,782 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.10-09.59.37:845][289]LogHttp: Warning: 000001D868C75600: libcurl info message cache 6 (Closing connection 1)
 [2020.11.10-09.59.37:845][289]LogHttp: Warning: 000001D868C75600: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
 [2020.11.10-09.59.38:178][290]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B850E3EEC-43EB-5B65-DCEE-EF8FD5306139%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=0975be8940acbc70c5881a84570164e1%7C05fc67ce442a4189af497f0b53a8931c%7C19212a92-1e6d-4edc-b0c3-b18207175452&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.11.10-10.04.37:486][458]LogSlate: Took 0.006655 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.10-10.28.14:416][697]LogRenderer: Reallocating scene render targets to support 1616x836 Format 10 NumSamples 1 (Frame:978).
+[2020.11.10-11.09.17:021][413]Running C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/sower/Documents/Work/Programming/C++/Unreal Learning/BullCowGame/BullCowGame.uproject" -game -rocket -progress
+[2020.11.10-11.09.17:326][413]Discovering modules, targets and source code for project...
+[2020.11.10-11.09.18:733][413]Binding IntelliSense data...
+[2020.11.10-11.09.26:168][413]Binding IntelliSense data... 100%
+[2020.11.10-11.09.26:168][413]Writing project files...
+[2020.11.10-11.09.26:269][413]Writing project files... 100%
+[2020.11.10-11.14.23:267][518]Running C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/sower/Documents/Work/Programming/C++/Unreal Learning/BullCowGame/BullCowGame.uproject" -game -rocket -progress
+[2020.11.10-11.14.23:571][518]Discovering modules, targets and source code for project...
+[2020.11.10-11.14.24:882][518]Binding IntelliSense data...
+[2020.11.10-11.14.26:805][518]Binding IntelliSense data... 100%
+[2020.11.10-11.14.26:806][518]Writing project files...
+[2020.11.10-11.14.26:907][518]Writing project files... 100%
+[2020.11.10-11.16.37:790][911]LogHttp: Warning: 000001D80AB4E400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B850E3EEC-43EB-5B65-DCEE-EF8FD5306139%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=0975be8940acbc70c5881a84570164e1%7C05fc67ce442a4189af497f0b53a8931c%7C19212a92-1e6d-4edc-b0c3-b18207175452&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.11.10-11.16.37:790][911]LogHttp: Warning: 000001D80AB4E400: request failed, libcurl error: 0 (No error)
+[2020.11.10-11.16.37:790][911]LogHttp: Warning: 000001D80AB4E400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1d8498b7f70 [can pipeline])
+[2020.11.10-11.16.37:790][911]LogHttp: Warning: 000001D80AB4E400: libcurl info message cache 1 (Re-using existing connection! (#30) with host datarouter.ol.epicgames.com)
+[2020.11.10-11.16.37:790][911]LogHttp: Warning: 000001D80AB4E400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.4.15.223) port 443 (#30))
+[2020.11.10-11.16.37:790][911]LogHttp: Warning: 000001D80AB4E400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.11.10-11.16.37:790][911]LogHttp: Warning: 000001D80AB4E400: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2020.11.10-11.16.37:791][911]LogHttp: Warning: 000001D80AB4E400: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2020.11.10-11.16.37:791][911]LogHttp: Warning: 000001D80AB4E400: libcurl info message cache 6 (Closing connection 30)
+[2020.11.10-11.16.37:791][911]LogHttp: Warning: 000001D80AB4E400: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.11.10-11.16.38:125][912]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B850E3EEC-43EB-5B65-DCEE-EF8FD5306139%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=0975be8940acbc70c5881a84570164e1%7C05fc67ce442a4189af497f0b53a8931c%7C19212a92-1e6d-4edc-b0c3-b18207175452&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.11.10-11.22.13:617][942]Candidate modules for hot reload:
+[2020.11.10-11.22.13:617][942]  BullCowGame
+[2020.11.10-11.22.13:617][942]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BullCowGame,2089 BullCowGameEditor Win64 Development -Project="C:/Users/sower/Documents/Work/Programming/C++/Unreal Learning/BullCowGame/BullCowGame.uproject" "C:/Users/sower/Documents/Work/Programming/C++/Unreal Learning/BullCowGame/BullCowGame.uproject"  -IgnoreJunk]
+[2020.11.10-11.22.13:619][942]Warning: Starting HotReload took  0.0s.
+[2020.11.10-11.22.23:420][515]CompilerResultsLog: New page: Compilation - 10 Nov 2020, 11:22:23
+[2020.11.10-11.22.23:420][515]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame).
+[2020.11.10-11.22.23:420][515]CompilerResultsLog: Creating makefile for BullCowGameEditor (no existing makefile)
+[2020.11.10-11.22.23:420][515]CompilerResultsLog: Parsing headers for BullCowGameEditor
+[2020.11.10-11.22.23:420][515]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\BullCowGame.uproject" "C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\BullCowGameEditor\Development\BullCowGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\sower\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.11.10-11.22.23:420][515]CompilerResultsLog: Reflection code generated for BullCowGameEditor in 5.6498969 seconds
+[2020.11.10-11.22.23:420][515]CompilerResultsLog: Building BullCowGameEditor...
+[2020.11.10-11.22.23:420][515]CompilerResultsLog: Using Visual Studio 2017 14.16.27025 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.11.10-11.22.23:420][515]CompilerResultsLog: [Upgrade]
+[2020.11.10-11.22.23:420][515]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.11.10-11.22.23:420][515]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.11.10-11.22.23:420][515]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.11.10-11.22.23:420][515]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.11.10-11.22.23:420][515]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BullCowGameEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.11.10-11.22.23:420][515]CompilerResultsLog: [Upgrade]
+[2020.11.10-11.22.23:420][515]CompilerResultsLog: Building 5 actions with 16 processes...
+[2020.11.10-11.22.23:420][515]CompilerResultsLog:   [1/5] BullCowCartridge.cpp
+[2020.11.10-11.22.23:420][515]CompilerResultsLog:   C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Source\BullCowGame\BullCowCartridge.cpp(42): warning C4458: declaration of 'Guess' hides class member
+[2020.11.10-11.22.23:420][515]CompilerResultsLog:   c:\users\sower\documents\work\programming\c++\unreal learning\bullcowgame\source\bullcowgame\BullCowCartridge.h(26): note: see declaration of 'UBullCowCartridge::Guess'
+[2020.11.10-11.22.23:420][515]CompilerResultsLog:   [2/5] BullCowCartridge.gen.cpp
+[2020.11.10-11.22.23:420][515]CompilerResultsLog:   [3/5] UE4Editor-BullCowGame-2089.lib
+[2020.11.10-11.22.23:420][515]CompilerResultsLog:      Creating library C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-2089.lib and object C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-2089.exp
+[2020.11.10-11.22.23:420][515]CompilerResultsLog:   [4/5] UE4Editor-BullCowGame-2089.dll
+[2020.11.10-11.22.23:420][515]CompilerResultsLog:      Creating library C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-2089.suppressed.lib and object C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-2089.suppressed.exp
+[2020.11.10-11.22.23:420][515]CompilerResultsLog:   [5/5] BullCowGameEditor.target
+[2020.11.10-11.22.23:420][515]CompilerResultsLog: Total time in Parallel executor: 2.03 seconds
+[2020.11.10-11.22.23:420][515]CompilerResultsLog: Total execution time: 9.72 seconds
+[2020.11.10-11.22.23:420][515]LogMainFrame: MainFrame: Module compiling took 9.821 seconds
+[2020.11.10-11.22.23:443][515]LogClass: Could not find existing class BullCowCartridge in package /Script/BullCowGame for HotReload, assuming new class
+[2020.11.10-11.22.23:448][515]LogHotReload: Re-instancing BullCowCartridge after hot-reload.
+[2020.11.10-11.22.23:453][515]LogContentBrowser: Native class hierarchy updated for 'BullCowGame' in 0.0005 seconds. Added 4 classes and 3 folders.
+[2020.11.10-11.22.23:455][515]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.11.10-11.22.23:502][515]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 3431 classes and 824 folders.
+[2020.11.10-11.22.23:502][515]Display: HotReload took  9.9s.
+[2020.11.10-11.22.24:556][579]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.10-11.22.24:574][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.10-11.22.24:574][579]PIE: New page: PIE session: Level1 (10 Nov 2020, 11:22:24)
+[2020.11.10-11.22.24:574][579]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2020.11.10-11.22.24:605][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030588s)
+[2020.11.10-11.22.24:606][579]LogAIModule: Creating AISystem for world Level1
+[2020.11.10-11.22.24:606][579]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D81A41DC00), frame # 18579
+[2020.11.10-11.22.24:606][579]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D868A08F40), frame # 18579
+[2020.11.10-11.22.24:606][579]LogPlayLevel: PIE: World Init took: (0.001416s)
+[2020.11.10-11.22.24:606][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.032130s)
+[2020.11.10-11.22.24:619][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.10-11.22.24:620][579]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.10-11.22.24:620][579]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.10-11.22.24:620][579]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.10-11.22.24:620][579]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.10-11.22.24:620][579]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.10-11.22.24:620][579]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.10-11.22.24:620][579]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.10-11.22.24:620][579]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.10-11.22.24:621][579]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.10-11.22.24:621][579]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.10-11.22.24:624][579]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.10-11.22.24:624][579]LogAudioMixer: Display: 1: FrontRight
+[2020.11.10-11.22.24:638][579]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2020.11.10-11.22.24:639][579]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.10-11.22.24:639][579]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.10-11.22.24:639][579]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.10-11.22.24:639][579]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.10-11.22.24:650][579]LogInit: FAudioDevice initialized.
+[2020.11.10-11.22.24:658][579]LogLoad: Game class is 'GameModeBase'
+[2020.11.10-11.22.24:661][579]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.11.10-11.22.24
+[2020.11.10-11.22.24:661][579]LogWorld: Bringing up level for play took: 0.002790
+[2020.11.10-11.22.24:661][579]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.11.10-11.22.24:663][579]PIE: Server logged in
+[2020.11.10-11.22.24:664][579]PIE: Play in editor total start time 0.093 seconds.
+[2020.11.10-11.22.40:333][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-11.22.40:333][517]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2020.11.10-11.22.40:333][517]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-11.22.40:333][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-11.22.40:347][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.10-11.22.40:348][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-11.22.40:375][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-11.22.40:375][517]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D868A08F40), frame # 19517
+[2020.11.10-11.22.40:375][517]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D81A41DC00), frame # 19517
+[2020.11.10-11.22.40:376][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.11.10-11.22.40:439][519]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.11.10-11.23.14:099][888]Candidate modules for hot reload:
+[2020.11.10-11.23.14:099][888]  BullCowGame
+[2020.11.10-11.23.14:099][888]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BullCowGame,1280 BullCowGameEditor Win64 Development -Project="C:/Users/sower/Documents/Work/Programming/C++/Unreal Learning/BullCowGame/BullCowGame.uproject" "C:/Users/sower/Documents/Work/Programming/C++/Unreal Learning/BullCowGame/BullCowGame.uproject"  -IgnoreJunk]
+[2020.11.10-11.23.14:100][888]Warning: Starting HotReload took  0.0s.
+[2020.11.10-11.23.16:402][ 12]CompilerResultsLog: New page: Compilation - 10 Nov 2020, 11:23:16
+[2020.11.10-11.23.16:402][ 12]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame).
+[2020.11.10-11.23.16:402][ 12]CompilerResultsLog: Building BullCowGameEditor...
+[2020.11.10-11.23.16:402][ 12]CompilerResultsLog: Using Visual Studio 2017 14.16.27025 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.11.10-11.23.16:402][ 12]CompilerResultsLog: [Upgrade]
+[2020.11.10-11.23.16:402][ 12]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.11.10-11.23.16:402][ 12]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.11.10-11.23.16:402][ 12]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.11.10-11.23.16:402][ 12]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.11.10-11.23.16:402][ 12]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BullCowGameEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.11.10-11.23.16:402][ 12]CompilerResultsLog: [Upgrade]
+[2020.11.10-11.23.16:402][ 12]CompilerResultsLog: Building 3 actions with 16 processes...
+[2020.11.10-11.23.16:402][ 12]CompilerResultsLog:   [1/3] UE4Editor-BullCowGame-1280.lib
+[2020.11.10-11.23.16:402][ 12]CompilerResultsLog:      Creating library C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-1280.lib and object C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-1280.exp
+[2020.11.10-11.23.16:402][ 12]CompilerResultsLog:   [2/3] UE4Editor-BullCowGame-1280.dll
+[2020.11.10-11.23.16:402][ 12]CompilerResultsLog:      Creating library C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-1280.suppressed.lib and object C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-1280.suppressed.exp
+[2020.11.10-11.23.16:402][ 12]CompilerResultsLog:   [3/3] BullCowGameEditor.target
+[2020.11.10-11.23.16:402][ 12]CompilerResultsLog: Total time in Parallel executor: 1.53 seconds
+[2020.11.10-11.23.16:402][ 12]CompilerResultsLog: Total execution time: 2.21 seconds
+[2020.11.10-11.23.16:402][ 12]LogMainFrame: MainFrame: Module compiling took 2.321 seconds
+[2020.11.10-11.23.16:425][ 12]LogContentBrowser: Native class hierarchy updated for 'BullCowGame' in 0.0004 seconds. Added 4 classes and 3 folders.
+[2020.11.10-11.23.16:426][ 12]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.11.10-11.23.16:460][ 12]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 3431 classes and 824 folders.
+[2020.11.10-11.23.16:460][ 12]Display: HotReload took  2.4s.
+[2020.11.10-11.23.17:621][ 83]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.10-11.23.17:639][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.10-11.23.17:640][ 83]PIE: New page: PIE session: Level1 (10 Nov 2020, 11:23:17)
+[2020.11.10-11.23.17:640][ 83]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2020.11.10-11.23.17:669][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029182s)
+[2020.11.10-11.23.17:670][ 83]LogAIModule: Creating AISystem for world Level1
+[2020.11.10-11.23.17:670][ 83]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D819F25C00), frame # 20083
+[2020.11.10-11.23.17:670][ 83]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D86844B380), frame # 20083
+[2020.11.10-11.23.17:670][ 83]LogPlayLevel: PIE: World Init took: (0.001399s)
+[2020.11.10-11.23.17:670][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.030705s)
+[2020.11.10-11.23.17:687][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.11.10-11.23.17:688][ 83]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.10-11.23.17:688][ 83]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.10-11.23.17:688][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.10-11.23.17:688][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.10-11.23.17:688][ 83]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.10-11.23.17:688][ 83]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.10-11.23.17:688][ 83]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.10-11.23.17:688][ 83]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.10-11.23.17:689][ 83]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.10-11.23.17:689][ 83]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.10-11.23.17:693][ 83]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.10-11.23.17:693][ 83]LogAudioMixer: Display: 1: FrontRight
+[2020.11.10-11.23.17:707][ 83]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2020.11.10-11.23.17:707][ 83]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.10-11.23.17:707][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.10-11.23.17:707][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.10-11.23.17:708][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.10-11.23.17:718][ 83]LogInit: FAudioDevice initialized.
+[2020.11.10-11.23.17:727][ 83]LogLoad: Game class is 'GameModeBase'
+[2020.11.10-11.23.17:730][ 83]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.11.10-11.23.17
+[2020.11.10-11.23.17:730][ 83]LogWorld: Bringing up level for play took: 0.002879
+[2020.11.10-11.23.17:730][ 83]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.11.10-11.23.17:733][ 83]PIE: Server logged in
+[2020.11.10-11.23.17:733][ 83]PIE: Play in editor total start time 0.097 seconds.
+[2020.11.10-11.23.25:346][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-11.23.25:346][538]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2020.11.10-11.23.25:347][538]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-11.23.25:347][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-11.23.25:353][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.10-11.23.25:354][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-11.23.25:379][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-11.23.25:380][538]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D86844B380), frame # 20538
+[2020.11.10-11.23.25:380][538]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D819F25C00), frame # 20538
+[2020.11.10-11.23.25:381][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.11.10-11.23.25:412][539]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.11.10-11.24.25:052][853]Candidate modules for hot reload:
+[2020.11.10-11.24.25:053][853]  BullCowGame
+[2020.11.10-11.24.25:053][853]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BullCowGame,1699 BullCowGameEditor Win64 Development -Project="C:/Users/sower/Documents/Work/Programming/C++/Unreal Learning/BullCowGame/BullCowGame.uproject" "C:/Users/sower/Documents/Work/Programming/C++/Unreal Learning/BullCowGame/BullCowGame.uproject"  -IgnoreJunk]
+[2020.11.10-11.24.25:054][853]Warning: Starting HotReload took  0.0s.
+[2020.11.10-11.24.27:840][  6]CompilerResultsLog: New page: Compilation - 10 Nov 2020, 11:24:27
+[2020.11.10-11.24.27:841][  6]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame).
+[2020.11.10-11.24.27:841][  6]CompilerResultsLog: Building BullCowGameEditor...
+[2020.11.10-11.24.27:841][  6]CompilerResultsLog: Using Visual Studio 2017 14.16.27025 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.11.10-11.24.27:841][  6]CompilerResultsLog: [Upgrade]
+[2020.11.10-11.24.27:841][  6]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.11.10-11.24.27:841][  6]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.11.10-11.24.27:841][  6]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.11.10-11.24.27:841][  6]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.11.10-11.24.27:841][  6]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BullCowGameEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.11.10-11.24.27:841][  6]CompilerResultsLog: [Upgrade]
+[2020.11.10-11.24.27:841][  6]CompilerResultsLog: Building 4 actions with 16 processes...
+[2020.11.10-11.24.27:841][  6]CompilerResultsLog:   [1/4] BullCowCartridge.cpp
+[2020.11.10-11.24.27:841][  6]CompilerResultsLog:   C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Source\BullCowGame\BullCowCartridge.cpp(42): warning C4458: declaration of 'Guess' hides class member
+[2020.11.10-11.24.27:841][  6]CompilerResultsLog:   c:\users\sower\documents\work\programming\c++\unreal learning\bullcowgame\source\bullcowgame\BullCowCartridge.h(26): note: see declaration of 'UBullCowCartridge::Guess'
+[2020.11.10-11.24.27:841][  6]CompilerResultsLog:   [2/4] UE4Editor-BullCowGame-1699.lib
+[2020.11.10-11.24.27:841][  6]CompilerResultsLog:      Creating library C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-1699.lib and object C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-1699.exp
+[2020.11.10-11.24.27:841][  6]CompilerResultsLog:   [3/4] UE4Editor-BullCowGame-1699.dll
+[2020.11.10-11.24.27:841][  6]CompilerResultsLog:      Creating library C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-1699.suppressed.lib and object C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-1699.suppressed.exp
+[2020.11.10-11.24.27:841][  6]CompilerResultsLog:   [4/4] BullCowGameEditor.target
+[2020.11.10-11.24.27:841][  6]CompilerResultsLog: Total time in Parallel executor: 1.98 seconds
+[2020.11.10-11.24.27:841][  6]CompilerResultsLog: Total execution time: 2.70 seconds
+[2020.11.10-11.24.27:841][  6]LogMainFrame: MainFrame: Module compiling took 2.806 seconds
+[2020.11.10-11.24.27:863][  6]LogContentBrowser: Native class hierarchy updated for 'BullCowGame' in 0.0005 seconds. Added 4 classes and 3 folders.
+[2020.11.10-11.24.27:864][  6]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.11.10-11.24.27:900][  6]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 3431 classes and 824 folders.
+[2020.11.10-11.24.27:900][  6]Display: HotReload took  2.9s.
+[2020.11.10-11.24.28:776][ 60]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.10-11.24.28:794][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.10-11.24.28:794][ 60]PIE: New page: PIE session: Level1 (10 Nov 2020, 11:24:28)
+[2020.11.10-11.24.28:827][ 60]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2020.11.10-11.24.28:856][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029004s)
+[2020.11.10-11.24.28:857][ 60]LogAIModule: Creating AISystem for world Level1
+[2020.11.10-11.24.28:857][ 60]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D80A685A00), frame # 21060
+[2020.11.10-11.24.28:857][ 60]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D868A08900), frame # 21060
+[2020.11.10-11.24.28:857][ 60]LogPlayLevel: PIE: World Init took: (0.001350s)
+[2020.11.10-11.24.28:857][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.030514s)
+[2020.11.10-11.24.28:869][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.11.10-11.24.28:870][ 60]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.10-11.24.28:870][ 60]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.10-11.24.28:870][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.10-11.24.28:870][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.10-11.24.28:870][ 60]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.10-11.24.28:870][ 60]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.10-11.24.28:870][ 60]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.10-11.24.28:870][ 60]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.10-11.24.28:870][ 60]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.10-11.24.28:870][ 60]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.10-11.24.28:874][ 60]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.10-11.24.28:874][ 60]LogAudioMixer: Display: 1: FrontRight
+[2020.11.10-11.24.28:888][ 60]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2020.11.10-11.24.28:888][ 60]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.10-11.24.28:888][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.10-11.24.28:888][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.10-11.24.28:889][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.10-11.24.28:899][ 60]LogInit: FAudioDevice initialized.
+[2020.11.10-11.24.28:903][ 60]LogLoad: Game class is 'GameModeBase'
+[2020.11.10-11.24.28:906][ 60]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.11.10-11.24.28
+[2020.11.10-11.24.28:906][ 60]LogWorld: Bringing up level for play took: 0.002811
+[2020.11.10-11.24.28:907][ 60]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.11.10-11.24.28:909][ 60]PIE: Server logged in
+[2020.11.10-11.24.28:910][ 60]PIE: Play in editor total start time 0.119 seconds.
+[2020.11.10-11.24.38:824][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-11.24.38:824][653]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2020.11.10-11.24.38:824][653]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-11.24.38:825][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-11.24.38:837][653]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.10-11.24.38:839][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-11.24.38:865][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-11.24.38:866][653]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D868A08900), frame # 21653
+[2020.11.10-11.24.38:866][653]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D80A685A00), frame # 21653
+[2020.11.10-11.24.38:867][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.11.10-11.24.38:931][655]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.11.10-11.25.50:655][980]Candidate modules for hot reload:
+[2020.11.10-11.25.50:655][980]  BullCowGame
+[2020.11.10-11.25.50:655][980]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BullCowGame,9765 BullCowGameEditor Win64 Development -Project="C:/Users/sower/Documents/Work/Programming/C++/Unreal Learning/BullCowGame/BullCowGame.uproject" "C:/Users/sower/Documents/Work/Programming/C++/Unreal Learning/BullCowGame/BullCowGame.uproject"  -IgnoreJunk]
+[2020.11.10-11.25.50:657][980]Warning: Starting HotReload took  0.0s.
+[2020.11.10-11.25.53:393][130]CompilerResultsLog: New page: Compilation - 10 Nov 2020, 11:25:53
+[2020.11.10-11.25.53:393][130]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame).
+[2020.11.10-11.25.53:393][130]CompilerResultsLog: Building BullCowGameEditor...
+[2020.11.10-11.25.53:393][130]CompilerResultsLog: Using Visual Studio 2017 14.16.27025 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.11.10-11.25.53:393][130]CompilerResultsLog: [Upgrade]
+[2020.11.10-11.25.53:393][130]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.11.10-11.25.53:393][130]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.11.10-11.25.53:393][130]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.11.10-11.25.53:393][130]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.11.10-11.25.53:393][130]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BullCowGameEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.11.10-11.25.53:393][130]CompilerResultsLog: [Upgrade]
+[2020.11.10-11.25.53:393][130]CompilerResultsLog: Building 4 actions with 16 processes...
+[2020.11.10-11.25.53:393][130]CompilerResultsLog:   [1/4] BullCowCartridge.cpp
+[2020.11.10-11.25.53:393][130]CompilerResultsLog:   C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Source\BullCowGame\BullCowCartridge.cpp(42): warning C4458: declaration of 'Guess' hides class member
+[2020.11.10-11.25.53:393][130]CompilerResultsLog:   c:\users\sower\documents\work\programming\c++\unreal learning\bullcowgame\source\bullcowgame\BullCowCartridge.h(26): note: see declaration of 'UBullCowCartridge::Guess'
+[2020.11.10-11.25.53:393][130]CompilerResultsLog:   [2/4] UE4Editor-BullCowGame-9765.lib
+[2020.11.10-11.25.53:393][130]CompilerResultsLog:      Creating library C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-9765.lib and object C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-9765.exp
+[2020.11.10-11.25.53:393][130]CompilerResultsLog:   [3/4] UE4Editor-BullCowGame-9765.dll
+[2020.11.10-11.25.53:393][130]CompilerResultsLog:      Creating library C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-9765.suppressed.lib and object C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-9765.suppressed.exp
+[2020.11.10-11.25.53:393][130]CompilerResultsLog:   [4/4] BullCowGameEditor.target
+[2020.11.10-11.25.53:393][130]CompilerResultsLog: Total time in Parallel executor: 1.95 seconds
+[2020.11.10-11.25.53:393][130]CompilerResultsLog: Total execution time: 2.65 seconds
+[2020.11.10-11.25.53:393][130]LogMainFrame: MainFrame: Module compiling took 2.756 seconds
+[2020.11.10-11.25.53:415][130]LogContentBrowser: Native class hierarchy updated for 'BullCowGame' in 0.0005 seconds. Added 4 classes and 3 folders.
+[2020.11.10-11.25.53:416][130]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.11.10-11.25.53:448][130]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 3431 classes and 824 folders.
+[2020.11.10-11.25.53:448][130]Display: HotReload took  2.8s.
+[2020.11.10-11.26.15:457][449]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.10-11.26.15:476][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.10-11.26.15:476][449]PIE: New page: PIE session: Level1 (10 Nov 2020, 11:26:15)
+[2020.11.10-11.26.15:476][449]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2020.11.10-11.26.15:505][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029675s)
+[2020.11.10-11.26.15:507][449]LogAIModule: Creating AISystem for world Level1
+[2020.11.10-11.26.15:507][449]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D819F26600), frame # 23449
+[2020.11.10-11.26.15:507][449]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D82932E5C0), frame # 23449
+[2020.11.10-11.26.15:508][449]LogPlayLevel: PIE: World Init took: (0.002037s)
+[2020.11.10-11.26.15:508][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.031838s)
+[2020.11.10-11.26.15:520][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.11.10-11.26.15:521][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.10-11.26.15:521][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.10-11.26.15:522][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.10-11.26.15:522][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.10-11.26.15:522][449]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.10-11.26.15:522][449]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.10-11.26.15:522][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.10-11.26.15:522][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.10-11.26.15:522][449]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.10-11.26.15:522][449]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.10-11.26.15:525][449]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.10-11.26.15:525][449]LogAudioMixer: Display: 1: FrontRight
+[2020.11.10-11.26.15:540][449]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2020.11.10-11.26.15:540][449]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.10-11.26.15:540][449]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.10-11.26.15:540][449]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.10-11.26.15:540][449]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.10-11.26.15:552][449]LogInit: FAudioDevice initialized.
+[2020.11.10-11.26.15:558][449]LogLoad: Game class is 'GameModeBase'
+[2020.11.10-11.26.15:561][449]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.11.10-11.26.15
+[2020.11.10-11.26.15:562][449]LogWorld: Bringing up level for play took: 0.002933
+[2020.11.10-11.26.15:562][449]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.11.10-11.26.15:564][449]PIE: Server logged in
+[2020.11.10-11.26.15:565][449]PIE: Play in editor total start time 0.093 seconds.
+[2020.11.10-11.26.20:534][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-11.26.20:534][745]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2020.11.10-11.26.20:534][745]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-11.26.20:534][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-11.26.20:546][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.10-11.26.20:547][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-11.26.20:573][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-11.26.20:574][745]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D82932E5C0), frame # 23745
+[2020.11.10-11.26.20:574][745]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D819F26600), frame # 23745
+[2020.11.10-11.26.20:575][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.11.10-11.26.20:605][746]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.11.10-11.51.37:687][365]LogHttp: Warning: 000001D810113900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B850E3EEC-43EB-5B65-DCEE-EF8FD5306139%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=0975be8940acbc70c5881a84570164e1%7C05fc67ce442a4189af497f0b53a8931c%7C19212a92-1e6d-4edc-b0c3-b18207175452&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.11.10-11.51.37:687][365]LogHttp: Warning: 000001D810113900: request failed, libcurl error: 0 (No error)
+[2020.11.10-11.51.37:687][365]LogHttp: Warning: 000001D810113900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1d8498b7f70 [can pipeline])
+[2020.11.10-11.51.37:687][365]LogHttp: Warning: 000001D810113900: libcurl info message cache 1 (Re-using existing connection! (#37) with host datarouter.ol.epicgames.com)
+[2020.11.10-11.51.37:687][365]LogHttp: Warning: 000001D810113900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.71.23.32) port 443 (#37))
+[2020.11.10-11.51.37:687][365]LogHttp: Warning: 000001D810113900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.11.10-11.51.37:687][365]LogHttp: Warning: 000001D810113900: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2020.11.10-11.51.37:687][365]LogHttp: Warning: 000001D810113900: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2020.11.10-11.51.37:687][365]LogHttp: Warning: 000001D810113900: libcurl info message cache 6 (Closing connection 37)
+[2020.11.10-11.51.37:687][365]LogHttp: Warning: 000001D810113900: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.11.10-11.51.38:020][366]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B850E3EEC-43EB-5B65-DCEE-EF8FD5306139%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=0975be8940acbc70c5881a84570164e1%7C05fc67ce442a4189af497f0b53a8931c%7C19212a92-1e6d-4edc-b0c3-b18207175452&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.11.10-12.39.37:748][989]LogHttp: Warning: 000001D810113900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B850E3EEC-43EB-5B65-DCEE-EF8FD5306139%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=0975be8940acbc70c5881a84570164e1%7C05fc67ce442a4189af497f0b53a8931c%7C19212a92-1e6d-4edc-b0c3-b18207175452&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.11.10-12.39.37:748][989]LogHttp: Warning: 000001D810113900: request failed, libcurl error: 0 (No error)
+[2020.11.10-12.39.37:748][989]LogHttp: Warning: 000001D810113900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1d8498b7f70 [can pipeline])
+[2020.11.10-12.39.37:748][989]LogHttp: Warning: 000001D810113900: libcurl info message cache 1 (Re-using existing connection! (#55) with host datarouter.ol.epicgames.com)
+[2020.11.10-12.39.37:748][989]LogHttp: Warning: 000001D810113900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.227.251.48) port 443 (#55))
+[2020.11.10-12.39.37:748][989]LogHttp: Warning: 000001D810113900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.11.10-12.39.37:748][989]LogHttp: Warning: 000001D810113900: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2020.11.10-12.39.37:748][989]LogHttp: Warning: 000001D810113900: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2020.11.10-12.39.37:748][989]LogHttp: Warning: 000001D810113900: libcurl info message cache 6 (Closing connection 55)
+[2020.11.10-12.39.37:748][989]LogHttp: Warning: 000001D810113900: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.11.10-12.39.38:081][990]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B850E3EEC-43EB-5B65-DCEE-EF8FD5306139%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=0975be8940acbc70c5881a84570164e1%7C05fc67ce442a4189af497f0b53a8931c%7C19212a92-1e6d-4edc-b0c3-b18207175452&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.11.10-12.40.26:813][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.11.10-12.40.26:886][135]LogSlate: Window 'BullCowGame - Unreal Editor' being destroyed
+[2020.11.10-12.40.26:993][136]Cmd: QUIT_EDITOR
+[2020.11.10-12.40.26:993][136]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.11.10-12.40.27:002][136]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.11.10-12.40.27:493][136]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.10-12.40.27:507][136]LogExit: Preparing to exit.
+[2020.11.10-12.40.28:474][136]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.11.10-12.40.28:478][136]LogExit: Transaction tracking system shut down
+[2020.11.10-12.40.28:484][136]LogExit: Editor shut down
+[2020.11.10-12.40.28:600][136]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001D86D5F9500), frame # 37136
+[2020.11.10-12.40.28:600][136]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D86D550F40), frame # 37136
+[2020.11.10-12.40.28:600][136]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D86D5B4A00), frame # 37136
+[2020.11.10-12.40.28:605][136]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D8681FCA00), frame # 37136
+[2020.11.10-12.40.28:605][136]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D860FEDD00), frame # 37136
+[2020.11.10-12.40.28:627][136]LogExit: Object subsystem successfully closed.
+[2020.11.10-12.40.28:650][136]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.11.10-12.40.28:682][136]LogModuleManager: Shutting down and abandoning module BullCowGame (800)
+[2020.11.10-12.40.28:682][136]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (796)
+[2020.11.10-12.40.28:682][136]LogModuleManager: Shutting down and abandoning module Voice (794)
+[2020.11.10-12.40.28:682][136]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (792)
+[2020.11.10-12.40.28:682][136]LogModuleManager: Shutting down and abandoning module SceneOutliner (790)
+[2020.11.10-12.40.28:682][136]LogModuleManager: Shutting down and abandoning module AddContentDialog (788)
+[2020.11.10-12.40.28:682][136]LogModuleManager: Shutting down and abandoning module WidgetCarousel (787)
+[2020.11.10-12.40.28:682][136]LogModuleManager: Shutting down and abandoning module EditorWidgets (784)
+[2020.11.10-12.40.28:682][136]LogModuleManager: Shutting down and abandoning module CollectionManager (782)
+[2020.11.10-12.40.28:682][136]LogModuleManager: Shutting down and abandoning module StatsViewer (780)
+[2020.11.10-12.40.28:682][136]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (778)
+[2020.11.10-12.40.28:682][136]LogModuleManager: Shutting down and abandoning module FoliageEdit (776)
+[2020.11.10-12.40.28:682][136]LogModuleManager: Shutting down and abandoning module LandscapeEditor (774)
+[2020.11.10-12.40.28:682][136]LogModuleManager: Shutting down and abandoning module MeshPaintMode (772)
+[2020.11.10-12.40.28:682][136]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (770)
+[2020.11.10-12.40.28:682][136]LogModuleManager: Shutting down and abandoning module ActorPickerMode (768)
+[2020.11.10-12.40.28:682][136]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (766)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (764)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module AutomationWorker (762)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module SteamVREditor (760)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module OculusMR (758)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module GooglePADEditor (756)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (754)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (752)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (750)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (748)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (746)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (744)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (742)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (740)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (738)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module WebMMedia (736)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (734)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (732)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module SequenceRecorder (731)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (728)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (726)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (724)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (722)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (720)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (718)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (716)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (714)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (712)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (710)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module PlanarCut (708)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module CharacterAI (706)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module TextureAlignMode (704)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module BspMode (702)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module PlacementMode (701)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module GeometryMode (698)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (696)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module SmartSnapping (694)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module SessionServices (692)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module MeshPaint (690)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module ViewportSnapping (688)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module ViewportInteraction (686)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module ClothPainter (684)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (683)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module LogVisualizer (680)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module IntroTutorials (678)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (677)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (674)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (672)
+[2020.11.10-12.40.28:683][136]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (670)
+[2020.11.10-12.40.28:684][136]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (669)
+[2020.11.10-12.40.29:611][136]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (666)
+[2020.11.10-12.40.29:611][136]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (664)
+[2020.11.10-12.40.29:611][136]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (662)
+[2020.11.10-12.40.29:611][136]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (660)
+[2020.11.10-12.40.29:611][136]LogModuleManager: Shutting down and abandoning module TraceInsights (658)
+[2020.11.10-12.40.29:611][136]LogModuleManager: Shutting down and abandoning module TraceServices (657)
+[2020.11.10-12.40.29:611][136]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (654)
+[2020.11.10-12.40.29:611][136]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (652)
+[2020.11.10-12.40.29:611][136]LogModuleManager: Shutting down and abandoning module InputBindingEditor (650)
+[2020.11.10-12.40.29:611][136]LogModuleManager: Shutting down and abandoning module MergeActors (648)
+[2020.11.10-12.40.29:611][136]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (646)
+[2020.11.10-12.40.29:611][136]LogModuleManager: Shutting down and abandoning module LocalizationService (645)
+[2020.11.10-12.40.29:611][136]LogModuleManager: Shutting down and abandoning module HardwareTargeting (642)
+[2020.11.10-12.40.29:611][136]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (640)
+[2020.11.10-12.40.29:611][136]LogModuleManager: Shutting down and abandoning module UndoHistory (638)
+[2020.11.10-12.40.29:611][136]LogModuleManager: Shutting down and abandoning module XmlParser (636)
+[2020.11.10-12.40.29:611][136]LogModuleManager: Shutting down and abandoning module Blutility (634)
+[2020.11.10-12.40.29:611][136]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (632)
+[2020.11.10-12.40.29:611][136]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (631)
+[2020.11.10-12.40.29:611][136]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (628)
+[2020.11.10-12.40.29:612][136]LogModuleManager: Shutting down and abandoning module SettingsEditor (626)
+[2020.11.10-12.40.29:612][136]LogModuleManager: Shutting down and abandoning module ProjectLauncher (624)
+[2020.11.10-12.40.29:612][136]LogModuleManager: Shutting down and abandoning module SessionFrontend (622)
+[2020.11.10-12.40.29:612][136]LogModuleManager: Shutting down and abandoning module ProfilerClient (620)
+[2020.11.10-12.40.29:612][136]LogModuleManager: Shutting down and abandoning module DeviceManager (618)
+[2020.11.10-12.40.29:612][136]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (617)
+[2020.11.10-12.40.29:645][136]LogModuleManager: Shutting down and abandoning module AutomationController (614)
+[2020.11.10-12.40.29:645][136]LogModuleManager: Shutting down and abandoning module AutomationWindow (612)
+[2020.11.10-12.40.29:645][136]LogModuleManager: Shutting down and abandoning module Layers (610)
+[2020.11.10-12.40.29:645][136]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (608)
+[2020.11.10-12.40.29:645][136]LogModuleManager: Shutting down and abandoning module DetailCustomizations (606)
+[2020.11.10-12.40.29:645][136]LogModuleManager: Shutting down and abandoning module PackagesDialog (604)
+[2020.11.10-12.40.29:645][136]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (602)
+[2020.11.10-12.40.29:645][136]LogModuleManager: Shutting down and abandoning module Persona (600)
+[2020.11.10-12.40.29:645][136]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (599)
+[2020.11.10-12.40.29:645][136]LogModuleManager: Shutting down and abandoning module AnimGraph (597)
+[2020.11.10-12.40.29:645][136]LogModuleManager: Shutting down and abandoning module Kismet (594)
+[2020.11.10-12.40.29:645][136]LogModuleManager: Shutting down and abandoning module KismetWidgets (593)
+[2020.11.10-12.40.29:645][136]LogModuleManager: Shutting down and abandoning module GraphEditor (590)
+[2020.11.10-12.40.29:645][136]LogModuleManager: Shutting down and abandoning module StructViewer (588)
+[2020.11.10-12.40.29:645][136]LogModuleManager: Shutting down and abandoning module ClassViewer (586)
+[2020.11.10-12.40.29:645][136]LogModuleManager: Shutting down and abandoning module Toolbox (584)
+[2020.11.10-12.40.29:645][136]LogModuleManager: Shutting down and abandoning module ModuleUI (582)
+[2020.11.10-12.40.29:645][136]LogModuleManager: Shutting down and abandoning module OutputLog (580)
+[2020.11.10-12.40.29:645][136]LogModuleManager: Shutting down and abandoning module GammaUI (578)
+[2020.11.10-12.40.29:645][136]LogModuleManager: Shutting down and abandoning module Documentation (576)
+[2020.11.10-12.40.29:645][136]LogModuleManager: Shutting down and abandoning module LiveCoding (574)
+[2020.11.10-12.40.29:646][136]LogModuleManager: Shutting down and abandoning module LevelSequence (572)
+[2020.11.10-12.40.29:646][136]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (570)
+[2020.11.10-12.40.29:646][136]LogModuleManager: Shutting down and abandoning module MovieScene (568)
+[2020.11.10-12.40.29:646][136]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (566)
+[2020.11.10-12.40.29:646][136]LogModuleManager: Shutting down and abandoning module LauncherPlatform (564)
+[2020.11.10-12.40.29:646][136]LogModuleManager: Shutting down and abandoning module AnalyticsET (562)
+[2020.11.10-12.40.29:646][136]LogModuleManager: Shutting down and abandoning module PortalServices (560)
+[2020.11.10-12.40.29:646][136]LogModuleManager: Shutting down and abandoning module PortalRpc (558)
+[2020.11.10-12.40.29:646][136]LogModuleManager: Shutting down and abandoning module MessagingRpc (556)
+[2020.11.10-12.40.29:646][136]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (554)
+[2020.11.10-12.40.29:646][136]LogModuleManager: Shutting down and abandoning module AudioMixerCore (553)
+[2020.11.10-12.40.29:646][136]LogModuleManager: Shutting down and abandoning module AIModule (550)
+[2020.11.10-12.40.29:646][136]LogModuleManager: Shutting down and abandoning module GameplayDebugger (549)
+[2020.11.10-12.40.29:646][136]LogModuleManager: Shutting down and abandoning module AITestSuite (547)
+[2020.11.10-12.40.29:646][136]LogModuleManager: Shutting down and abandoning module NavigationSystem (545)
+[2020.11.10-12.40.29:646][136]LogModuleManager: Shutting down and abandoning module ProfilerService (542)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module TaskGraph (540)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module ScreenshotTools (538)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module SynthesisEditor (536)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module Synthesis (534)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (532)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (530)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module OculusEditor (528)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module OculusInput (526)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (524)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module GooglePAD (522)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module EditableMesh (520)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (518)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module CableComponent (516)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module AudioCapture (514)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (513)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module AssetTags (510)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (508)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (506)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module AppleImageUtils (504)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module AndroidPermission (502)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (500)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (498)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module TemplateSequence (496)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (494)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (492)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (490)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (488)
+[2020.11.10-12.40.29:764][136]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (487)
+[2020.11.10-12.40.29:768][136]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (484)
+[2020.11.10-12.40.29:768][136]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (482)
+[2020.11.10-12.40.29:768][136]LogModuleManager: Shutting down and abandoning module MediaCompositing (480)
+[2020.11.10-12.40.29:768][136]LogModuleManager: Shutting down and abandoning module ImgMedia (478)
+[2020.11.10-12.40.29:768][136]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (476)
+[2020.11.10-12.40.29:768][136]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (474)
+[2020.11.10-12.40.29:768][136]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (472)
+[2020.11.10-12.40.29:768][136]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (470)
+[2020.11.10-12.40.29:768][136]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (468)
+[2020.11.10-12.40.29:768][136]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (466)
+[2020.11.10-12.40.29:768][136]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (464)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module MeshConversion (462)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module DynamicMesh (460)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (458)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module GeometricObjects (456)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (454)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (453)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (450)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (448)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (446)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (444)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module ChaosNiagara (442)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module FractureEditor (440)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (438)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module ChaosCloth (436)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module BackChannel (434)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (432)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module AutomationUtils (430)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module AlembicImporter (428)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module AlembicLibrary (427)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module GeometryCache (426)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (425)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (420)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (418)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (416)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module PluginBrowser (414)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (412)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (410)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (408)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module CurveEditorTools (406)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (404)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module CryptoKeys (402)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (400)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (398)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module UObjectPlugin (396)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (394)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (392)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (390)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (388)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module GitSourceControl (386)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module SourceControl (385)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (382)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (380)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (378)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (376)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (374)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (372)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (370)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module Paper2DEditor (368)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.11.10-12.40.29:769][136]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.11.10-12.40.29:870][136]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.11.10-12.40.29:971][136]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.11.10-12.40.29:971][136]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.11.10-12.40.29:971][136]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.11.10-12.40.29:972][136]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.11.10-12.40.29:972][136]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.11.10-12.40.29:972][136]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.11.10-12.40.29:972][136]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.11.10-12.40.29:972][136]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.11.10-12.40.29:972][136]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.11.10-12.40.29:972][136]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.11.10-12.40.29:972][136]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.11.10-12.40.29:972][136]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.11.10-12.40.29:972][136]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.11.10-12.40.29:973][136]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.11.10-12.40.29:973][136]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.11.10-12.40.29:973][136]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.11.10-12.40.29:973][136]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.11.10-12.40.29:973][136]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.11.10-12.40.29:973][136]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.11.10-12.40.29:973][136]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.11.10-12.40.29:973][136]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.11.10-12.40.29:973][136]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.11.10-12.40.29:973][136]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.11.10-12.40.29:973][136]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.11.10-12.40.29:973][136]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.11.10-12.40.29:973][136]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.11.10-12.40.29:973][136]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.11.10-12.40.29:973][136]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2020.11.10-12.40.29:973][136]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2020.11.10-12.40.29:973][136]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2020.11.10-12.40.29:973][136]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2020.11.10-12.40.29:973][136]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2020.11.10-12.40.29:974][136]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2020.11.10-12.40.29:974][136]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.11.10-12.40.29:974][136]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.11.10-12.40.29:974][136]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.11.10-12.40.29:974][136]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.11.10-12.40.29:975][136]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.11.10-12.40.29:975][136]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.11.10-12.40.29:975][136]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.11.10-12.40.29:975][136]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.11.10-12.40.29:975][136]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.11.10-12.40.29:975][136]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.11.10-12.40.29:975][136]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.11.10-12.40.29:975][136]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.11.10-12.40.29:975][136]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.11.10-12.40.29:975][136]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.11.10-12.40.29:975][136]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.11.10-12.40.29:976][136]LogXGEController: Cleaning working directory: C:/Users/sower/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.11.10-12.40.29:976][136]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.11.10-12.40.29:977][136]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.11.10-12.40.29:978][136]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.11.10-12.40.29:978][136]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.11.10-12.40.29:978][136]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.11.10-12.40.29:978][136]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.11.10-12.40.29:978][136]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.11.10-12.40.29:978][136]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.11.10-12.40.29:978][136]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.11.10-12.40.29:978][136]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.11.10-12.40.29:978][136]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.11.10-12.40.29:978][136]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.11.10-12.40.29:981][136]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.11.10-12.40.29:981][136]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.11.10-12.40.29:981][136]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.11.10-12.40.29:981][136]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.11.10-12.40.29:981][136]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.11.10-12.40.29:981][136]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.11.10-12.40.29:981][136]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.11.10-12.40.29:981][136]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.11.10-12.40.29:981][136]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.11.10-12.40.29:981][136]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.11.10-12.40.29:981][136]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.11.10-12.40.29:981][136]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.11.10-12.40.29:981][136]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.11.10-12.40.29:981][136]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.11.10-12.40.29:981][136]LogHMD: Freeing OpenVRDLLHandle.
+[2020.11.10-12.40.29:981][136]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.11.10-12.40.29:981][136]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.11.10-12.40.29:981][136]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.11.10-12.40.29:981][136]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.11.10-12.40.29:981][136]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.11.10-12.40.29:982][136]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.11.10-12.40.29:982][136]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.11.10-12.40.29:990][136]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.11.10-12.40.29:990][136]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.11.10-12.40.29:990][136]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B850E3EEC-43EB-5B65-DCEE-EF8FD5306139%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=0975be8940acbc70c5881a84570164e1%7C05fc67ce442a4189af497f0b53a8931c%7C19212a92-1e6d-4edc-b0c3-b18207175452&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.11.10-12.40.30:013][136]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.11.10-12.40.30:014][136]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.11.10-12.40.30:015][136]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.11.10-12.40.30:016][136]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.11.10-12.40.30:016][136]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.11.10-12.40.30:016][136]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.11.10-12.40.30:016][136]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.11.10-12.40.30:016][136]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.11.10-12.40.30:016][136]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.11.10-12.40.30:016][136]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.11.10-12.40.30:016][136]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.11.10-12.40.30:016][136]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.11.10-12.40.30:016][136]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.11.10-12.40.30:016][136]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.11.10-12.40.30:016][136]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.11.10-12.40.30:016][136]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.11.10-12.40.30:017][136]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.11.10-12.40.30:017][136]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.11.10-12.40.30:017][136]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.11.10-12.40.30:017][136]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.11.10-12.40.30:017][136]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.11.10-12.40.30:017][136]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.11.10-12.40.30:017][136]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.11.10-12.40.30:017][136]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.11.10-12.40.30:017][136]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.11.10-12.40.30:017][136]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.11.10-12.40.30:018][136]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.11.10-12.40.30:018][136]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.11.10-12.40.30:018][136]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.11.10-12.40.30:018][136]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.11.10-12.40.30:018][136]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.11.10-12.40.30:018][136]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.11.10-12.40.30:018][136]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.11.10-12.40.30:019][136]LogD3D11RHI: Shutdown
+[2020.11.10-12.40.30:019][136]LogD3D11RHI: CleanupD3DDevice
+[2020.11.10-12.40.30:034][136]LogExit: Exiting.
+[2020.11.10-12.40.30:042][136]Log file closed, 11/10/20 12:40:30
