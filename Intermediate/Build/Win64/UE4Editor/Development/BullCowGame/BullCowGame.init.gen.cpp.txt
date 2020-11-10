@@ -1,0 +1,3 @@
+C:\Users\Finn Sowerbutts\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\Definitions.BullCowGame.h
+E:\Epic\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\Epic\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

@@ -1,0 +1,3 @@
+C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Source\BullCowGame\BullCowGame.Build.cs
+C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Source\BullCowGame.Target.cs
+C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Source\BullCowGameEditor.Target.cs
