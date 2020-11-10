@@ -1,16 +1,16 @@
-C:\Users\Finn Sowerbutts\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\Definitions.BullCowGame.h
-c:\users\finn sowerbutts\documents\work\programming\c++\unreal learning\bullcowgame\source\bullcowgame\console\Terminal.h
-C:\Users\Finn Sowerbutts\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Inc\BullCowGame\Terminal.generated.h
-E:\Epic\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
-E:\Epic\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
-E:\Epic\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
-E:\Epic\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
-E:\Epic\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
-E:\Epic\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
-E:\Epic\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
-E:\Epic\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
-e:\epic\ue_4.25\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
-E:\Epic\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
-E:\Epic\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
-c:\users\finn sowerbutts\documents\work\programming\c++\unreal learning\bullcowgame\source\bullcowgame\console\Cartridge.h
-C:\Users\Finn Sowerbutts\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Inc\BullCowGame\Cartridge.generated.h
+C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\Definitions.BullCowGame.h
+c:\users\sower\documents\work\programming\c++\unreal learning\bullcowgame\source\bullcowgame\console\Terminal.h
+C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Inc\BullCowGame\Terminal.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+c:\users\sower\documents\work\programming\c++\unreal learning\bullcowgame\source\bullcowgame\console\Cartridge.h
+C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Inc\BullCowGame\Cartridge.generated.h

@@ -54,6 +54,7 @@ void UBullCowCartridge::SetupGame()
     PrintLine(TEXT("Hello Player 1"));
     PrintLine(TEXT("Guess the %i letter word"), HiddenWord.Len());
     PrintLine(TEXT("You have %i lives"), Lives + 1);
+    PrintLine(TEXT("GOOOOOO"))
 }
 
 void UBullCowCartridge::EndGame()

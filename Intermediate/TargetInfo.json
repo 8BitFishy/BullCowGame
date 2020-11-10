@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "BullCowGame",
-			"Path": "C:\\Users\\Finn Sowerbutts\\Documents\\Work\\Programming\\C++\\Unreal Learning\\BullCowGame\\Source\\BullCowGame.Target.cs",
+			"Path": "C:\\Users\\sower\\Documents\\Work\\Programming\\C++\\Unreal Learning\\BullCowGame\\Source\\BullCowGame.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "BullCowGameEditor",
-			"Path": "C:\\Users\\Finn Sowerbutts\\Documents\\Work\\Programming\\C++\\Unreal Learning\\BullCowGame\\Source\\BullCowGameEditor.Target.cs",
+			"Path": "C:\\Users\\sower\\Documents\\Work\\Programming\\C++\\Unreal Learning\\BullCowGame\\Source\\BullCowGameEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

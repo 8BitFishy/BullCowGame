@@ -1,2 +1,2 @@
-C:\Users\Finn Sowerbutts\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\Definitions.BullCowGame.h
-c:\users\finn sowerbutts\documents\work\programming\c++\unreal learning\bullcowgame\source\bullcowgame\BullCowGame.h
+C:\Users\sower\Documents\Work\Programming\C++\Unreal Learning\BullCowGame\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\Definitions.BullCowGame.h
+c:\users\sower\documents\work\programming\c++\unreal learning\bullcowgame\source\bullcowgame\BullCowGame.h
